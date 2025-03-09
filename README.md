@@ -1,6 +1,6 @@
 # README
 
 ```
-// Some code npm run install
+ npm run install
 
 ```
